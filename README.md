@@ -1,2 +1,16 @@
-# Student-Registration-Form
-Developed a student registration form using HTML, CSS and JavaScript. Implemented client-side validation for empty fields and password length. This project was created as part of self-learning to understand web development basics.
+# Student Registration Form
+
+This is a simple student registration form developed using HTML, CSS, and JavaScript.
+
+## Features
+- User-friendly form design
+- Client-side validation
+- Responsive layout
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Purpose
+This project was created as part of my college academic work.
